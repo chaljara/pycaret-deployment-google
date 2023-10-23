@@ -1,5 +1,5 @@
 streamlit
-pycaret
+pycaret==3.6.6
 Flask
 Jinja2
 gunicorn
